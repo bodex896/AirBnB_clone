@@ -1,1 +1,1 @@
-MODEL
+__init__.py
